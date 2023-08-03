@@ -1,0 +1,185 @@
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.AssemblyReference.cache
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Form1.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Properties.Resources.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.GenerateResource.cache
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.AssemblyInfoInputs.cache
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.AssemblyInfo.cs
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.CoreCompileInputs.cache
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.exe
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.deps.json
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.runtimeconfig.json
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.pdb
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\refint\Noting_Fication.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.pdb
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.genruntimeconfig.cache
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\ref\Noting_Fication.dll
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.AssemblyReference.cache
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.CreateNote.resources
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Login.resources
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Form1.resources
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Properties.EditNote.resources
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Properties.Resources.resources
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Register.resources
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.GenerateResource.cache
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.AssemblyInfoInputs.cache
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.AssemblyInfo.cs
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.CoreCompileInputs.cache
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.dll
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\refint\Noting_Fication.dll
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.pdb
+D:\GitHub\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.EditForm.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Humanizer.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.AddCategories.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Bins.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Categories.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.CreateNote.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.EditForm.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Goal.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.List.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Login.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Register.resources
+D:\GPT\PRNprj\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.CopyComplete
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.exe
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.deps.json
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.runtimeconfig.json
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Noting_Fication.pdb
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Google.Apis.Gmail.v1.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Humanizer.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\MimeKit.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.AssemblyReference.cache
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.AddCategories.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Bins.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Categories.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.CreateNote.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.EditForm.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Goal.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.List.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Login.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Form1.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Properties.Resources.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.Register.resources
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.GenerateResource.cache
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.AssemblyInfoInputs.cache
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.AssemblyInfo.cs
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.csproj.CopyComplete
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\refint\Noting_Fication.dll
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.pdb
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\Noting_Fication.genruntimeconfig.cache
+D:\New folder (2)\Noting-Fication\Noting_Fication\Noting_Fication\obj\Debug\net6.0-windows\ref\Noting_Fication.dll
